@@ -1,8 +1,8 @@
 print('Choose operation')
-print('1. ADD')
-print('2. MULTIPLICATIO')
+print('1. ADDITION')
+print('2. MULTIPLICATION')
 print('3. SUBTRACTION')
-print('4. DIVISIION')
+print('4. DIVISION')
 
 operation = input()
 num1 = input('Enter first number:')
